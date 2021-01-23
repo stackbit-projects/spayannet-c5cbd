@@ -1,7 +1,7 @@
 ---
 title: The Ellsworth
 subtitle: Optional Project Subtitle
-date: '2019-05-10'
+date: '2019-01-10'
 thumb_image: images/PostModern-9.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
