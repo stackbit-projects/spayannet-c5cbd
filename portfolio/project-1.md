@@ -4,7 +4,6 @@ subtitle: 'Role: Designer, fabricator, finisher'
 date: '2020-10-20'
 thumb_image: images/PostModern-9.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/PostModern-2.jpg
 image_alt: 'White, black, and red shoe sole'
 layout: project
 ---
