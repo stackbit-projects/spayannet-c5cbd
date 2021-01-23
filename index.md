@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Sebastien Payannet'
     content: |
-      In love with too many things, a peek into my creative life
+      A peek into my creative life
     actions:
       - label: Let's talk
         url: /contact
