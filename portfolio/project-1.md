@@ -1,5 +1,5 @@
 ---
-title: Project Title 1
+title: The Ellsworth
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/PostModern-9.jpg
