@@ -6,6 +6,7 @@ thumb_image: images/PostModern-9.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image_alt: 'White, black, and red shoe sole'
 layout: project
+image: images/spectacular-iron.jpg
 ---
 ![](https://www.instagram.com/sebastienpayannet/)
 
