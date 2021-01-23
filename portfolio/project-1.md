@@ -12,10 +12,10 @@ Material: Maple (Construction Scraps)
 
 Paint: Acrylic
 
-Design: Hand Drawn using Memphis and Keith Harrring inspirations
+Design: Hand Drawn using Memphis and Keith Harring inspirations
 
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
-A project completed over several months during the height of the spring 2020 quarantine. 
+A project completed over several months during the height of the spring 2020 quarantine.
 
 ![](<"C:\Users\Sebas\Pictures\Project Photos\Stands Project\PostModern-6.jpg">)
