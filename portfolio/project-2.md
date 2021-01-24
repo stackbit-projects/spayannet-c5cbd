@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/Carlton-2.jpg
 thumb_image_alt: The Carlton
-image: images/2.jpg
+image: images/Carlton-2.jpg
 image_alt: An orange on a blue background
 layout: project
 ---
