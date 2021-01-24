@@ -2,7 +2,7 @@
 title: On The Record
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
-thumb_image: images/82882003_750436085478970_5246854584210554880_o-min.jpg
+thumb_image: images/OTR___VIP_Tables_5__SECOND_PHOTO_.webp
 thumb_image_alt: A table tennis racket on a pink background
 image: images/4.jpg
 image_alt: A table tennis racket on a pink background
