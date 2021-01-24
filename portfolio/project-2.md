@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: The Carlton
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/Carlton-2.jpg
